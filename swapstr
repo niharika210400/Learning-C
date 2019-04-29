@@ -38,7 +38,7 @@ int main()
 { 
 
 	// Get the string 
-	char str[100] = "GeeksForGeeks"; 
+	char str[100] = "Theswapstrcode"; 
 	printf("Enter a string: %s\n", str); 
 
 	// Reverse the string 
